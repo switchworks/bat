@@ -1,2 +1,4 @@
 # bat
-bat(include PowerShell)
+bat(include PowerShell(include C#))
+
+batでなんでもできそう
