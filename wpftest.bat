@@ -3,6 +3,6 @@
 Add-Type -AssemblyName PresentationFramework
 $window = New-Object System.Windows.Window
 $button = New-Object System.Windows.Controls.Button
-$button.Content = 'Ç±ÇÒÇ…ÇøÇÕê¢äE'
+$button.Content = 'hello GUI world.'
 $window.Content = $button
 $window.ShowDialog()
